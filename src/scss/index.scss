@@ -1,8 +1,9 @@
 @import 'normalize';
-// @import 'variables';
+@import 'variables';
 @import '../App';
-// @import '../layout/header';
-@import '../components/answer/answer';
+@import '../components/answers/answers';
 @import '../components/cardContainer/cardContainer';
+@import '../components/header/header';
 @import '../components/player/player';
 @import '../components/question/question';
+@import '../components/start/start';

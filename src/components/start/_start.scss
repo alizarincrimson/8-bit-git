@@ -1,0 +1,31 @@
+.intro {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin: 175px;
+};
+
+.intro h2 {
+  color: #fff;
+  font-family: $zeldafont;
+  font-size: 2.5rem;
+  margin: auto;
+  overflow: auto;
+};
+
+.sword {
+  margin: 75px;
+};
+
+
+
+// @keyframes intro {
+//   from { width: 0 }
+//   to { width: 100% }
+// }
+
+// .intro h2 {
+//   animation: typing 3.5s steps(40, end);
+// }
